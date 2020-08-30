@@ -1,2 +1,2 @@
-# prime-Number
-a code to descrioe prime number in java using Swift
+# Complex-Number
+a code to descrioe Complex number in java using Swift
