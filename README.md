@@ -1,2 +1,2 @@
-# Complex-Number
-a code to descrioe Complex number in java using Swift
+# Palindrome-Number
+a code to descrioe Palindrome number in java 
